@@ -2,6 +2,14 @@
 
 I built this Excel Gantt Chart for structured project environments where basic templates are not enough. This is not a “colored bar” spreadsheet—it is a **fully formula-driven scheduling engine** designed to handle real-world complexity.
 
+## 📺 Video Overview
+
+[![Dynamic Gantt Chart Demo](https://img.youtube.com/vi/2i-37t3uJq4/maxresdefault.jpg)](https://www.youtube.com/watch?v=2i-37t3uJq4)
+
+*Click the image above to watch the Dynamic Gantt Chart Engine in action.*
+
+---
+
 ## 🚀 What Makes This Different?
 Most Excel Gantt charts support only a single start date and duration with no baseline or change tracking. This engine supports:
 
